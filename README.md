@@ -1,1 +1,1 @@
-# NM-project
+This project focuses on the development of a robust Speech-to-Text (STT) translation system capable of accurately transcribing spoken language into text, even in noisy environments. Traditional STT systems often struggle in situations where background noise, such as ambient sounds, reverberations, or overlapping speech, degrades the transcription quality. The goal of this system is to enhance the speech recognition process by integrating noise-robust techniques to improve accuracy and reliability in diverse acoustic conditions.
